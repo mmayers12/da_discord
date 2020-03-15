@@ -1,4 +1,4 @@
-# world_happiness
+# World Happiness
 Analysis of World Happiness Dataset from Kaggle Competition
 
 ## Contents
